@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 //hello world 
 // This is a sample Flutter application.
+// Flutter app starts here.
 void main() {
   runApp(const MyApp());
 }
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

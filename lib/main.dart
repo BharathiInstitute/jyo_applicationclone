@@ -1,7 +1,6 @@
-// hello world
 import 'package:flutter/material.dart';
-//hello world
-// Added by user
+//hello world 
+// This is a sample Flutter application.
 void main() {
   runApp(const MyApp());
 }
